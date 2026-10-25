@@ -1,3 +1,5 @@
+<h1 align="center">Hi , I'm Pamela Cucho <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:6D28D9&height=180&section=header&text=Pamela%20Cucho&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Engineering%20Student%20%C2%B7%20AI%20%26%20Automation&descAlignY=58&descSize=16" alt="Pamela Cucho" />
@@ -9,39 +11,39 @@
 
 ---
 
-## 👋 Sobre mí
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Soy **estudiante de ingeniería** y me apasiona construir soluciones que combinan **inteligencia artificial, automatización y software útil**.
+I am an **engineering student** focused on building solutions that combine **artificial intelligence, automation and useful software**.
 
-Me interesa llevar las ideas a código funcional: desde chatbots y extensiones de navegador hasta plataformas de datos con impacto real en mi región.
+I like turning ideas into working code: from chatbots and browser extensions to data platforms that address real problems in my region.
 
-> Tecnología con propósito: que sirva, que sea accesible y que resuelva problemas reales.
+> Technology with purpose: it should be useful, accessible and solve real problems.
 
 ---
 
-## 🎯 Enfoque actual
+## Current focus
 
-| Área | En qué estoy trabajando |
+| Area | What I am working on |
 | --- | --- |
-| **IA & Chatbots** | Asistentes conversacionales con LLMs (Groq) para orientar y responder consultas |
-| **Agentes & MCP** | Aprendiendo a construir servidores MCP en Python |
-| **Accesibilidad** | Herramientas web que hacen internet más usable para todos |
-| **IA aplicada a datos** | Predicción del impacto del Fenómeno de El Niño en cultivos de la región de Ica |
+| **AI & Chatbots** | Conversational assistants powered by LLMs (Groq) to guide users and answer questions |
+| **Agents & MCP** | Learning to build Model Context Protocol servers in Python |
+| **Accessibility** | Web tools that make the internet easier to use for everyone |
+| **Applied AI & Data** | Predicting the impact of the El Niño phenomenon on crops in the Ica region |
 
 ---
 
-## 🚀 Proyectos destacados
+## Featured work
 
-| Proyecto | Qué hace | Stack |
+| Project | What it does | Stack |
 | --- | --- | --- |
-| 🌾 **[AgroPredict](https://github.com/pammdada/AgroPredict)** `🚧 en proceso` | Plataforma para predecir el impacto del **Fenómeno de El Niño** en los cultivos de la región de **Ica** | Python · Datos · IA |
-| 🧭 **[Navi](https://github.com/pammdada/Navi)** | Extensión de Chrome enfocada en **accesibilidad web** | TypeScript |
-| 🏥 **[ClinicaBot](https://github.com/pammdada/ClinicaBot)** | Gestor de clínicas con **chatbot** (API de Groq) que ayuda a **derivar al paciente a la especialidad adecuada** y responde preguntas frecuentes | Java · Groq |
-| 🔌 **[mcp-ejercicio](https://github.com/pammdada/mcp-ejercicio)** | Ejercicio práctico creando un **servidor MCP** (Model Context Protocol) en Python | Python · MCP |
+| **[AgroPredict](https://github.com/pammdada/AgroPredict)** (in progress) | Platform to predict the impact of the **El Niño phenomenon** on crops in the **Ica region** | Python, Data, AI |
+| **[Navi](https://github.com/pammdada/Navi)** | Chrome extension focused on **web accessibility** | TypeScript |
+| **[ClinicaBot](https://github.com/pammdada/ClinicaBot)** | Clinic management system with a **chatbot** (Groq API) that helps route patients to the right **medical specialty** and answers common questions | Java, Groq |
+| **[mcp-ejercicio](https://github.com/pammdada/mcp-ejercicio)** | Hands-on exercise building an **MCP server** (Model Context Protocol) in Python | Python, MCP |
 
 ---
 
-## 🛠️ Tecnologías
+## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -52,32 +54,27 @@ Me interesa llevar las ideas a código funcional: desde chatbots y extensiones d
 ![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**IA & Automatización:** Groq · LLMs · Chatbots · MCP (Model Context Protocol)
+**AI & Automation:** Groq · LLMs · Chatbots · MCP (Model Context Protocol)
 
 ---
 
-## 📚 Aprendiendo ahora
+## Currently learning
 
-- Construcción de **servidores MCP** y conexión de herramientas a LLMs
-- Modelos predictivos aplicados a **agricultura y clima**
-- Buenas prácticas de **accesibilidad web** (WCAG)
+- Building **MCP servers** and connecting tools to LLMs
+- Predictive models applied to **agriculture and climate**
+- Web accessibility best practices (WCAG)
 
 ---
 
-## 📈 Estadísticas
+### Github <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
+[![pammdada's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pammdada&theme=tokyo-night&hide_border=true)](https://github.com/pammdada)
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pammdada&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pammdada&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
 
 ---
 
 <div align="center">
 
-### Ideas → Código → Impacto
+### Ideas, Code, Impact
 
 [LinkedIn](https://www.linkedin.com/in/pamela-cucho-de-la-torre-673b87286/) · [GitHub](https://github.com/pammdada)
 
