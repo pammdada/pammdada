@@ -67,7 +67,7 @@ I like turning ideas into working code: from chatbots and browser extensions to 
 ---
 
 ### Github <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-[![pammdada's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pammdada&theme=tokyo-night&hide_border=true)](https://github.com/pammdada)
+![Pammdada's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=pammdada&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
 
 
 ---
