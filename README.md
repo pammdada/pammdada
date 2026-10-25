@@ -69,7 +69,7 @@ I like turning ideas into working code: from chatbots and browser extensions to 
 ### Github <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
 ![Pammdada's github stats](https://github-vercel-deployment-seven.vercel.app/apiusername=pammdada&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
 
-
+---
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pammdada/pammdada/output/github-contribution-grid-snake-dark.svg">
