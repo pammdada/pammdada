@@ -70,11 +70,13 @@ I like turning ideas into working code: from chatbots and browser extensions to 
 ![Pammdada's github stats](https://github-vercel-deployment-seven.vercel.app/apiusername=pammdada&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
 
 
----
- <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pammdada/pammdada/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pammdada/pammdada/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/pammdada/pammdada/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
 
 <div align="center">
 
